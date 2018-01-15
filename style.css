@@ -1,0 +1,10 @@
+body{
+    background-color: #f1c40f;
+}
+
+.book-list-app{
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 50px;
+}
